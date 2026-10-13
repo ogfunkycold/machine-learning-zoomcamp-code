@@ -1,0 +1,19 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter
+jupyter_execute/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
